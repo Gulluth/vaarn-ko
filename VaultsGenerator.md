@@ -40,9 +40,9 @@
 | 15 | 환풍구 | 고대의 시체로 가득함 | 신스 생산시설 |
 | 16 | 박쥐 똥으로 가득함 | 믿을 수 없을 정도로 추움 | 불법 복제 시설 |
 | 17 | 내부에서 바리케이트를 침 | 거대하고 메아리침 | 네트워크 감시기지 |
-| 18 | Below an [아콜로지](https://vedminstuden.github.io/vaarn-ko/#/regions/the-interior?id=%ec%95%84%ec%bd%9c%eb%a1%9c%ec%a7%80-arcology) 아래 | 전투로 손상됨 | 신왕의 은신처 |
-| 19 | Below a [정착지](https://vedminstuden.github.io/vaarn-ko/#/regions/the-interior?id=%ec%a0%95%ec%b0%a9%ec%a7%80-settlement) 아래 | 하얗고 메마름 | 숨겨진 저수지 |
-| 20 | Below a [폐허](https://vedminstuden.github.io/vaarn-ko/#/regions/the-interior?id=%ed%8f%90%ed%97%88-ruin) 아래 | 쓰레기로 채워짐 | 재활용 공장 |
+| 18 | [아콜로지](https://vedminstuden.github.io/vaarn-ko/#/regions/the-interior?id=%ec%95%84%ec%bd%9c%eb%a1%9c%ec%a7%80-arcology) 아래 | 전투로 손상됨 | 신왕의 은신처 |
+| 19 | [정착지](https://vedminstuden.github.io/vaarn-ko/#/regions/the-interior?id=%ec%a0%95%ec%b0%a9%ec%a7%80-settlement) 아래 | 하얗고 메마름 | 숨겨진 저수지 |
+| 20 | [폐허](https://vedminstuden.github.io/vaarn-ko/#/regions/the-interior?id=%ed%8f%90%ed%97%88-ruin) 아래 | 쓰레기로 채워짐 | 재활용 공장 |
 
 ## 방의 특징과 위험요소 (Room Features and Hazards)
 | **D20** | **방의 특징 A** | **방의 특징 B** | **위험요소 예시** |
